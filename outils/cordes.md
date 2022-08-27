@@ -14,7 +14,8 @@
 ##Visual Studio Code
 
 ### Key BIndings
-`{
+```
+{
     "key": "ctrl+`",
     "command": "workbench.action.terminal.focus"
 },
@@ -22,4 +23,5 @@
     "key": "ctrl+`",
     "command": "workbench.action.focusActiveEditorGroup",
     "when": "terminalFocus"
-}`
+}
+```
